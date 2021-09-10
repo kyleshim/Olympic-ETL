@@ -21,7 +21,7 @@ GDP, population, and central latitude.
     1. Country Location
     https://developers.google.com/public-data/docs/canonical/countries_csv
 
-###Extraction:
+### Extraction:
   * For data sourced from Kaggle: 
      i.We created Jupiter notebook
      ii.Import Pandas  
