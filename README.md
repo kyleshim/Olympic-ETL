@@ -3,8 +3,9 @@
 ## Team members: Kyle Shimberg,Yingying Li, and Yuqing Huang
 
 ### Description of findings:
-Looking into whether there is a correlation between winter olympic medal counts and country
-GDP, population, and central latitude.
+  * Looking into whether there is a correlation between winter olympic medal counts and country GDP
+  * Looking into whether there is a correlation between winter olympic medal counts and country population
+  * Looking into whether there is a correlation between winter olympic medal counts and country central latitude
 
 ### Type of production database:  
   * Postgresql
