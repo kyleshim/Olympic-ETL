@@ -39,3 +39,5 @@
   * We combined all of datasets in csv file with Jupyter Notebook, exported into csv file and import the combined csv file into PostgreSQL after creating a table and naming each columns exactly same as columns' name in csv file. 
   * We would like to see if there is any correlation between country's population/country's latitude and winter olympic medal count.
 
+###  Data Visualization:
+![SQL_database](postgres_db_final.png)
